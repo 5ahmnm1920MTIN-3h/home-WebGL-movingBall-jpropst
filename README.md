@@ -1,28 +1,28 @@
-# Template Repository for Unity2D version 2019.1.14f1
+# Weclome to this...ehm...game?
 
 ### Project description: 
-Introduction/Project summary 
+This simple project consists of a screen-independent canvas (900x600px), a button (Move ball), a text
+(title with developer name), a script (moving the ball with the button), and a GameObjects Tux mascot (sprite2d imported).
+
+When pressing the button "Move ball" tux moves randomly to a new position.
+4 Positions are available (4 empty GameObjects: Pos1, Pos2, Pos3, Pos4).
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+* Unity 2019.1.14f1 on macOS Catalina
+  * Scripting Runtime: .NET 4.x Equivalent
+  * API-Level: .NET Standard 2.0
+* Visual Studio for Mac Community v8.3.10 (build 2)
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
-
-### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+WebGL (900x600) - tested on Firefox
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Tux Linux mascot: [Tux.svg - click here for legal information](https://commons.wikimedia.org/wiki/File:Tux.svg)
 
 ### Project state: 
-incl. progress in percent
+100 % - finished
 
-### Limitations: 
+### Limitations:
+The screen size is only 900x600px instead of 960x600px.
 
-### Lessons Learned: 
-
-Copyright by you :)
+&copy; 2020 
